@@ -1,6 +1,6 @@
 # jekyll-theme-manual50
 
-Welcome to your the manual50 Jekyll theme!
+Welcome to the manual50 Jekyll theme!
 
 ## Installation
 
